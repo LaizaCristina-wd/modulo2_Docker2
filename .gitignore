@@ -1,8 +1,0 @@
-# Docker
-*.log
-
-# MySQL
-mysql-data/
-
-# VS Code
-.vscode/
